@@ -1,5 +1,7 @@
 # Microsoft Office Cloud Login / Online Content Control for macOS
 
+Download the [lastest release here](https://github.com/bastienboudot/mscloudlog/releases/latest)
+
 This project provides a macOS AppleScript (and standalone application) to **enable or disable Microsoft Office cloud login and online content features**.
 
 It is designed for privacy-focused, offline, or security-restricted environments.
